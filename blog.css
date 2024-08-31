@@ -1,0 +1,31 @@
+.first-section-blog h1{
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 200px;
+    font-family: "Playfair Display", sans-serif;
+}
+@media(max-width: 1000px) {
+    .first-section-blog h1{
+        font-size: 30px;
+        color: #fff;
+        font-weight: 700;
+        margin-top: 100px;
+        font-family: "Playfair Display", sans-serif;
+    }
+  }
+
+
+
+.numbers a  {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    font-weight: 700;
+    border-radius: 50%;
+    background: rgba(252, 134, 33, 0.1);
+    color: #fc8621;
+    text-align: center;
+align-items: center;
+margin: 5px;
+}

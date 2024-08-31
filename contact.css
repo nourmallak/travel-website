@@ -1,0 +1,108 @@
+/* start contact section */
+.contact
+{
+    padding-block: 100px;
+    background-color: #f8f9fa !important;}
+
+.contact svg{
+    font-size: 15px;
+    float: left;
+    width: 35px;
+    height: 35px;
+    background: #fc8621;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s;
+    color: #fff;
+    padding: 7px;
+    margin-right: 5px;
+    }
+.contact .location{
+    margin-top: 60px;
+} 
+.contact h2{
+    font-size: 46px;
+    color: #000;
+    font-weight: 700;
+    font-family: "Playfair Display", sans-serif;
+}
+.contact span
+{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fc8621;
+    font-family: "Open Sans", sans-serif;
+
+}
+.contact h4{
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: "Playfair Display", sans-serif;
+    font-size: 18px;
+}
+.contact .con-item
+{
+    margin-left: 50px;
+}
+.contact p{
+    font-size: 14px;
+    color:#212529
+}
+.contact .btn
+{
+    background-color: #fc8621 !important;
+    border-color: #fc8621;
+}
+.contact .form-contact{
+    margin-top: 120px;
+}
+/* end contact section */
+
+/* start footer */
+.footer
+{
+    background: #efefef;
+    padding:70px 0
+}
+.footer h6{
+    font-family: "Playfair Display", sans-serif;
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 70px;
+    font-weight: 700;
+}
+.footer a,p{
+    text-decoration: none;
+    color: #777;
+}
+.footer svg{
+    width: 20px;
+    height: 15px;
+    color: #fff;
+}
+.footer svg{
+    width: 20px;
+    height: 15px;
+    color: #fff;
+}
+.social li
+{
+    padding: 5px;
+    background: #777;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline;
+    margin-right: 5px;
+}
+.footer h3.connect{
+    margin-bottom: 40px;
+    font-family: "Playfair Display", sans-serif;
+    font-size: 16px;
+    color: #000;
+}
+
+
+/* end footer */
